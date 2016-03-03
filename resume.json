@@ -1,0 +1,113 @@
+{
+  "basics": {"name": "Dinesh Weerapurage",
+"label": "Lead Software Engineer",
+"picture": "",
+"email": "xydinesh@gmail.com",
+"phone": "303.921.1035",
+"website": "http://xydinesh.com",
+"summary": "Dinesh born and raised in Sri Lanka, He earned his computer science degrees from University of Moratuwa and University of Tennessee. As a Software developer, dinesh has worked in two startups, government lab and consulting company. Dinesh is passionate about backend development and cloud deployments. Dinesh enjoys reading, meditating and running when he is not working",
+"location": {
+    "address": "13806 W Layton Cir",
+    "postalCode": "CO 80465",
+    "city": "Morrison",
+    "countryCode": "US",
+    "region": "Colorado"
+},
+"profiles": [{
+    "network": "twitter",
+    "username": "xydinesh",
+    "url": "https://twitter.com/xydinesh"
+}, {
+    "network": "LinkedIn",
+    "username": "xydinesh",
+    "url": "https://www.linkedin.com/in/xydinesh"
+}, {
+    "network": "Github",
+    "username": "xydinesh",
+    "url": "https://github.com/xydinesh"
+}]
+},
+  "work": [{
+    "company": "KPMG LLP",
+    "position": "Lead Software Engineer",
+    "website": "http://kpmg.com",
+    "startDate": "2012-05-01",
+    "endDate": "2016-03-29",
+    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
+    "highlights": []
+}, {
+    "company": "Oak Ridge National Laborotary",
+    "position": "Research Associate",
+    "website": "https://www.ornl.gov/",
+    "startDate": "2012-04-30",
+    "endDate": "2011-03-01",
+    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
+    "highlights": []
+}, {
+    "company": "WSO2 Inc",
+    "position": "Senior Software Engineer",
+    "website": "http://wso2.com",
+    "startDate": "2006-09-01",
+    "endDate": "2008-06-01",
+    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
+    "highlights": []
+}
+],
+  "volunteer": [],
+  "education": [{
+  "institution": "University of Tennessee - Knoxville",
+  "area": "Computer Science",
+  "studyType": "Masters",
+  "startDate": "2008-08-01",
+  "endDate": "2010-12-01"
+}, {
+  "institution": "University of Moratuwa - Sri Lanka",
+  "area": "Computer Science & Engineering",
+  "studyType": "Bachelors",
+  "startDate": "2002-06-01",
+  "endDate": "2006-09-01"
+},
+],
+  "awards": [{
+    "title": "Google Summer of Code",
+    "date": "2005-09-01",
+    "awarder": "Google",
+    "summary": "Developed high performing XML parser in C for Apache Axis2/C project."
+}
+],
+  "skills": [{
+  "name": "Backend Development",
+  "level": "Master",
+  "keywords": [
+    "Python",
+    "Flask",
+    "Postgresql",
+    "Supervisor",
+    "Gunicorn",
+    "haproxy",
+    "Apache",
+    "mod_wsgi",
+    "AWS",
+    "EC2", "S3", "Cloudfront", "Cloudformation", "IAM", "ELB",
+    "Auto scaling", "AWS VPC",
+    "Nginx",
+    "Salt Stack",
+    "Fabric"
+  ]
+}
+],
+  "publications": [],
+  "languages": [{
+    "language": "English",
+    "fluency": "Proficient"
+}, {
+    "language": "Sinhala",
+    "fluency": "Native Speaker"
+}
+],
+  "interests": [],
+  "references": []
+}
+
+
+Done.
