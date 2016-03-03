@@ -1,6 +1,16 @@
 {
+    "title": "Amazon Certified Developer - Associate",
+    "date": "2016-03-01",
+    "awarder": "Amazon Inc",
+    "summary": "Tested my knowledge on different parts of AWS infrastructure including SQS, SNS, Dynamodb and S3."
+}, {
+    "title": "Scrum Master",
+    "date": "2015-12-01",
+    "awarder": "Scrum Alliance",
+    "summary": "Took a two day training followed by a test to get Scrum Master certification."
+}, {
     "title": "Google Summer of Code",
-    "date": "2005-09-01",
-    "awarder": "Google",
-    "summary": "Developed high performing XML parser in C for Apache Axis2/C project."
+    "date": "2005-05-01",
+    "awarder": "Google Inc",
+    "summary": "Developed high performance XML parser, Guththila, for Apache Axis2/C."
 }

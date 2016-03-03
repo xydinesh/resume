@@ -5,7 +5,7 @@
 "email": "xydinesh@gmail.com",
 "phone": "303.921.1035",
 "website": "http://xydinesh.com",
-"summary": "Dinesh born and raised in Sri Lanka, He earned his computer science degrees from University of Moratuwa and University of Tennessee. As a Software developer, dinesh has worked in two startups, government lab and consulting company. Dinesh is passionate about backend development and cloud deployments. Dinesh enjoys reading, meditating and running when he is not working",
+"summary": "Dinesh born and raised in Sri Lanka, He erned his computer science degrees from University of Moratuwa and University of Tennessee. As a Software developer, dinesh has worked in two startups, government lab and consulting company. Dinesh is passionate about backend development and cloud deployments. Dinesh enjoys reading, meditating and running when he is not working",
 "location": {
     "address": "13806 W Layton Cir",
     "postalCode": "CO 80465",
@@ -33,24 +33,33 @@
     "website": "http://kpmg.com",
     "startDate": "2012-05-01",
     "endDate": "2016-03-29",
-    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
-    "highlights": []
+    "summary": "As a lead software engineer at KPMG, I have engaged in variety of projects advancing breadth and depth of my knowledge on technologies",
+    "highlights": [
+        "Developed a backend, daily porting framework, to serve telecom daily porting data to some of the biggest mobile carriers. I have used Flask, Postgresql, Redis, gunicorn and nginx for this project",
+        "Deployed daily porting framework in AWS infrstructure, I used, Cloudfront, autoscaling, ELB and SAML based authentication for the deployment",
+        "Developed report generation, Excel and PPT, engine using .Net, Used C# and SqlServer"
+    ]
 }, {
     "company": "Oak Ridge National Laborotary",
     "position": "Research Associate",
     "website": "https://www.ornl.gov/",
     "startDate": "2012-04-30",
     "endDate": "2011-03-01",
-    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
-    "highlights": []
+    "summary": "As a research associate, I implemented parallel algothims for graph theory algorithms.",
+    "highlights": [
+        "Implemented parallel algorithm to solve maximum independent set problem in a graph, using tree decomposition"
+    ]
 }, {
     "company": "WSO2 Inc",
     "position": "Senior Software Engineer",
     "website": "http://wso2.com",
     "startDate": "2006-09-01",
     "endDate": "2008-06-01",
-    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
-    "highlights": []
+    "summary": "As Sr. Software Engineer, I contributed to Apache Axis2/C project while in WSO2",
+    "highlights": [
+        "Worked as a core developer for Apache Axis2/C project",
+        "Implemnted several transport layers for Axis2/C, including XMPP and TCP transports"
+    ]
 }
 ],
   "volunteer": [],
@@ -66,33 +75,36 @@
   "studyType": "Bachelors",
   "startDate": "2002-06-01",
   "endDate": "2006-09-01"
-},
+}
 ],
   "awards": [{
+    "title": "Amazon Certified Developer - Associate",
+    "date": "2016-03-01",
+    "awarder": "Amazon Inc",
+    "summary": "Tested my knowledge on different parts of AWS infrastructure including SQS, SNS, Dynamodb and S3."
+}, {
+    "title": "Scrum Master",
+    "date": "2015-12-01",
+    "awarder": "Scrum Alliance",
+    "summary": "Took a two day training followed by a test to get Scrum Master certification."
+}, {
     "title": "Google Summer of Code",
-    "date": "2005-09-01",
-    "awarder": "Google",
-    "summary": "Developed high performing XML parser in C for Apache Axis2/C project."
+    "date": "2005-05-01",
+    "awarder": "Google Inc",
+    "summary": "Developed high performance XML parser, Guththila, for Apache Axis2/C."
 }
 ],
   "skills": [{
   "name": "Backend Development",
   "level": "Master",
   "keywords": [
-    "Python",
-    "Flask",
+    "Python, C/C++",
+    "Flask, Pyramid",
     "Postgresql",
-    "Supervisor",
-    "Gunicorn",
-    "haproxy",
-    "Apache",
-    "mod_wsgi",
-    "AWS",
-    "EC2", "S3", "Cloudfront", "Cloudformation", "IAM", "ELB",
-    "Auto scaling", "AWS VPC",
-    "Nginx",
-    "Salt Stack",
-    "Fabric"
+    "Supervisor, Gunicorn, Apache, mod_wsgi, haproxy",
+    "AWS Stack",
+    "Fabric, Salt Stack",
+    "Test Driven Development"
   ]
 }
 ],
@@ -108,6 +120,3 @@
   "interests": [],
   "references": []
 }
-
-
-Done.

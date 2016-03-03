@@ -4,22 +4,31 @@
     "website": "http://kpmg.com",
     "startDate": "2012-05-01",
     "endDate": "2016-03-29",
-    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
-    "highlights": []
+    "summary": "As a lead software engineer at KPMG, I have engaged in variety of projects advancing breadth and depth of my knowledge on technologies",
+    "highlights": [
+        "Developed a backend, daily porting framework, to serve telecom daily porting data to some of the biggest mobile carriers. I have used Flask, Postgresql, Redis, gunicorn and nginx for this project",
+        "Deployed daily porting framework in AWS infrstructure, I used, Cloudfront, autoscaling, ELB and SAML based authentication for the deployment",
+        "Developed report generation, Excel and PPT, engine using .Net, Used C# and SqlServer"
+    ]
 }, {
     "company": "Oak Ridge National Laborotary",
     "position": "Research Associate",
     "website": "https://www.ornl.gov/",
     "startDate": "2012-04-30",
     "endDate": "2011-03-01",
-    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
-    "highlights": []
+    "summary": "As a research associate, I implemented parallel algothims for graph theory algorithms.",
+    "highlights": [
+        "Implemented parallel algorithm to solve maximum independent set problem in a graph, using tree decomposition"
+    ]
 }, {
     "company": "WSO2 Inc",
     "position": "Senior Software Engineer",
     "website": "http://wso2.com",
     "startDate": "2006-09-01",
     "endDate": "2008-06-01",
-    "summary": "As a Lead Software Engineer at KPMG's Data Anaytics team, Dinesh has engaged in larger variety of technologies while becoming an expert in some.",
-    "highlights": []
+    "summary": "As Sr. Software Engineer, I contributed to Apache Axis2/C project while in WSO2",
+    "highlights": [
+        "Worked as a core developer for Apache Axis2/C project",
+        "Implemnted several transport layers for Axis2/C, including XMPP and TCP transports"
+    ]
 }

@@ -2,19 +2,12 @@
   "name": "Backend Development",
   "level": "Master",
   "keywords": [
-    "Python",
-    "Flask",
+    "Python, C/C++",
+    "Flask, Pyramid",
     "Postgresql",
-    "Supervisor",
-    "Gunicorn",
-    "haproxy",
-    "Apache",
-    "mod_wsgi",
-    "AWS",
-    "EC2", "S3", "Cloudfront", "Cloudformation", "IAM", "ELB",
-    "Auto scaling", "AWS VPC",
-    "Nginx",
-    "Salt Stack",
-    "Fabric"
+    "Supervisor, Gunicorn, Apache, mod_wsgi, haproxy",
+    "AWS Stack",
+    "Fabric, Salt Stack",
+    "Test Driven Development"
   ]
 }
