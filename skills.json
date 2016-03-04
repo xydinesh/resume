@@ -5,9 +5,20 @@
     "Python, C/C++",
     "Flask, Pyramid",
     "Postgresql",
+    "Test Driven Development",
+    "API, RESTFul Applications"
+  ]
+}, {
+  "name": "Backend Deployment",
+  "level": "Master",
+  "keywords": [
     "Supervisor, Gunicorn, Apache, mod_wsgi, haproxy",
-    "AWS Stack",
-    "Fabric, Salt Stack",
-    "Test Driven Development"
+    "Fabric, Salt Stack"
+  ]
+}, {
+  "name": "Cloud, AWS, deployment",
+  "level": "Master",
+  "keywords": [
+    "S3", "Cloudfront", "Dynamodb", "SQS", "Elastic Load Balancing"
   ]
 }
