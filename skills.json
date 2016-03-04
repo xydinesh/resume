@@ -2,18 +2,18 @@
   "name": "Backend Development",
   "level": "Master",
   "keywords": [
-    "Python, C/C++",
-    "Flask, Pyramid",
+    "Python", "C/C++",
+    "Flask", "Pyramid",
     "Postgresql",
     "Test Driven Development",
-    "API, RESTFul Applications"
+    "API", "RESTFul Applications"
   ]
 }, {
   "name": "Backend Deployment",
   "level": "Master",
   "keywords": [
-    "Supervisor, Gunicorn, Apache, mod_wsgi, haproxy",
-    "Fabric, Salt Stack"
+    "Supervisor", "Gunicorn", "Apache", "mod_wsgi", "nginx", "haproxy", "docker",
+    "Fabric", "Salt Stack"
   ]
 }, {
   "name": "Cloud, AWS, deployment",

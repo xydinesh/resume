@@ -5,7 +5,7 @@
 "email": "xydinesh@gmail.com",
 "phone": "303.921.1035",
 "website": "http://xydinesh.com",
-"summary": "I was born and raised in Sri Lanka. I earned my computer science degrees from University of Moratuwa and University of Tennessee. I worked in two startups, government lab and consulting company. I am passionate about backend development and cloud deployments. In my spare time, I enjoy reading, meditating and running.",
+"summary": "I was born and raised in Sri Lanka. I earned my computer science degrees from University of Moratuwa and University of Tennessee. I worked in two startups, a government lab and a consulting company. I am passionate about backend development and cloud deployments. I enjoy reading, meditating and running.",
 "location": {
     "address": "13806 W Layton Cir",
     "postalCode": "CO 80465",
@@ -45,9 +45,9 @@
     "website": "https://www.ornl.gov/",
     "startDate": "2012-04-30",
     "endDate": "2011-03-01",
-    "summary": "As a research associate, I implemented parallel algothims for graph theory algorithms.",
+    "summary": "As a research associate, I implemented parallel algorithms for graph theory algorithms.",
     "highlights": [
-        "I implemented parallel algorithm to solve maximum independent set problem in a graph, using tree decomposition"
+        "I implemented a parallel algorithm to solve maximum independent set problem in a graph, using tree decomposition"
     ]
 }, {
     "company": "WSO2 Inc",
@@ -98,18 +98,18 @@
   "name": "Backend Development",
   "level": "Master",
   "keywords": [
-    "Python, C/C++",
-    "Flask, Pyramid",
+    "Python", "C/C++",
+    "Flask", "Pyramid",
     "Postgresql",
     "Test Driven Development",
-    "API, RESTFul Applications"
+    "API", "RESTFul Applications"
   ]
 }, {
   "name": "Backend Deployment",
   "level": "Master",
   "keywords": [
-    "Supervisor, Gunicorn, Apache, mod_wsgi, haproxy",
-    "Fabric, Salt Stack"
+    "Supervisor", "Gunicorn", "Apache", "mod_wsgi", "nginx", "haproxy", "docker",
+    "Fabric", "Salt Stack"
   ]
 }, {
   "name": "Cloud, AWS, deployment",
