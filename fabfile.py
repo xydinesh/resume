@@ -12,5 +12,9 @@ def gen_resume(templatename='resume.mako', output='resume.json'):
     print "Done!"
     local('resume test')
 
-def publish(theme='elegant'):
+def publish(theme='slick'):
+    """Good themes
+    elegant
+    slick
+    """
     local('resume publish --theme {0}'.format(theme))

@@ -43,8 +43,8 @@
     "company": "Oak Ridge National Laborotary",
     "position": "Research Associate",
     "website": "https://www.ornl.gov/",
-    "startDate": "2012-04-30",
-    "endDate": "2011-03-01",
+    "startDate": "2011-03-01",
+    "endDate": "2012-04-30",
     "summary": "As a research associate, I implemented parallel algorithms for graph theory algorithms.",
     "highlights": [
         "I implemented a parallel algorithm to solve maximum independent set problem in a graph, using tree decomposition"
